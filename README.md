@@ -1,2 +1,3 @@
 # HI-Brain
-This repo contains the code related to the paper "Interpretable Heterogeneous Brain Network Model for Brain Disorder Diagnosis" submitted to MICCAI 2025 and currently under review.
+This repository is related to the paper "Interpretable Heterogeneous Brain Network Model for Brain Disorder Diagnosis", which has been submitted to MICCAI 2025 and is currently under review. 
+The code will be made publicly available upon acceptance of the paper.
